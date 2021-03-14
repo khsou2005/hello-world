@@ -1,3 +1,3 @@
 # hello-world
-My first GitHub repository
-Long Description
+Hello Humans, 
+I like node.js and coffeescript
